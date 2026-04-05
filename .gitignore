@@ -1,0 +1,1 @@
+# Virtual environment folder ds-env/ # Python compiled files __pycache__/ *.pyc # Jupyter notebook checkpoints .ipynb_checkpoints/ # macOS system file .DS_Store # Python package build files *.egg-info/ # Environment variable files (keep secrets safe) .env
